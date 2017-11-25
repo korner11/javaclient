@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaclient.iml" filepath="$PROJECT_DIR$/.idea/modules/javaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaclient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaclient_main.iml" group="javaclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaclient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaclient_test.iml" group="javaclient" />
+    </modules>
+  </component>
+</project>
